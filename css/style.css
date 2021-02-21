@@ -1,0 +1,376 @@
+/*srikt des valeur ou alwen kahaw */
+
+body{
+  max-width: 1100px;
+  margin: 0 auto;
+  font-family : "Shippori Mincho", serif;
+  font-size :15px;
+  font-weight:300px;
+
+}
+.imageenhaut
+{
+  width: 268px;
+  height: 33px;
+}
+.career
+{margin-right: 25px;
+  color: gray;
+}
+.aboutus
+{
+  color:#0af1d2b7 ;
+  text-decoration:none;
+  
+}
+.haut
+{
+  display: flex;
+  justify-content: space-between;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+ background-color: white;
+ background: hsla(0,0%,100%,.98);
+    transition: box-shadow .25s ease 0s;
+}
+.motenhautadroite
+{
+ 
+  display: flex;
+  align-content: space-around;
+  
+
+}
+.departement
+{margin-right: 25px;
+  color: gray;
+
+}
+.aboutus
+{
+  margin-right: 10px;
+}
+.lead__logo
+{
+  display: flex;
+  justify-content: center;
+}
+.titre
+{
+  display: flex;
+  justify-content: center;
+  color: #00b39b;
+  font-size: 40px;
+}
+.paragraphe
+{
+  display: flex;
+  color: grey;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  font-size: 20px;
+  
+
+}
+.paragraphe1
+{
+  width: 44%;
+}
+.paragraphe2
+{
+  width: 46%;
+}
+.boite1
+{
+  display: flex;
+  background-color:#0af1d2b7;
+  width: 300px;
+ height: 330px;
+  border-radius: 10px;
+  flex-direction:column;
+  margin-left: 15px;
+  
+
+}
+.styleselect1
+{
+  align-self:flex-end ;
+  align-content: center;
+
+}
+
+.imageboites1
+{
+  order: -1;
+  margin-left: 15px;
+  margin-top: 15px;
+}
+.textboite1
+{
+  display:flex;
+  margin-left: 15px;
+ 
+}
+.boite2
+{
+  display: flex;
+  background-color:#5658e9f1;
+  width: 300px;
+ height: 330px;
+  border-radius: 10px;
+  flex-direction:column;
+
+}
+.styleselect2
+{
+  align-self:flex-end ;
+  align-content: center;
+
+}
+
+.imageboites2
+{
+  order: -1;
+  margin: 15px;
+}
+.textboite2
+{
+  display:flex;
+  margin-left: 15px;
+  margin-top: 15px;
+}
+.boite3
+{
+  display: flex;
+  background-color:#000000f1;
+  width: 300px;
+ height: 330px;
+  border-radius: 10px;
+  flex-direction:column;
+
+}
+.styleselect3
+{
+  align-self:flex-end ;
+  align-content: center;
+
+}
+
+.imageboites3
+{
+  order: -1;
+  margin-left: 15px;
+  margin-top: 15px;
+}
+.textboite3
+{
+  display:flex;
+  margin-left: 15px;
+  
+}
+.toutelesboites
+{
+  display: flex;
+  align-items: baseline;
+  color: rgb(255, 245, 245);
+  justify-content: space-between  ;
+  width: 1050px;
+  
+}
+.titreboite1
+{
+  font-size: 13px;
+  display: flex;
+  margin-left: 15px;
+}
+.titreboite2
+{
+  font-size: 13px;
+  display: flex;
+  margin-left: 15px;
+}.titreboite3
+{
+  font-size: 13px;
+  display: flex;
+  margin-left: 15px;
+}
+.styleselect1
+{display: flex;
+  justify-content:center
+}
+.domain-switcher
+{
+justify-items: start;
+}
+.ktibalouta
+{display: flex;
+  width: 250px;
+  color:#0af1d2b7 ;
+  font-size: 30px;
+}
+.logos{
+  display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    font-size: 0;
+    width: 67%;
+    list-style: none;
+   
+
+}
+.logoandpresentation
+{
+  display: flex;
+  max-width: 1015px;
+    padding: 0 20px;
+    margin: 0 auto;
+    position: relative;
+    margin: 2.5rem auto 3.125rem;
+}
+.logoandpresentation h1
+{
+
+  float: left;
+    width: 33%;
+    font-size: 1.625em;
+    margin: .25em 0 .35em;
+    padding-right: 14px;
+    
+  
+}
+
+
+
+
+.bluepart
+{
+  display: flex;
+  background: #e5faf8;
+  background-image: linear-gradient(-45deg,rgba(0,204,177,.01) 5%,rgba(61,199,223,.1));
+  padding: 1.875em 0 .625em;
+  overflow: hidden;
+  margin: 3.125rem auto 5.5rem;
+  height: 780px;
+  width: 10000px;
+  background-position:left;
+
+
+  
+}
+.logo1
+{
+  font-size: 1rem;
+    display: inline-block;
+    width: 160px;
+    padding: 5px 0;
+    margin: 10px;
+}
+.logo2
+{
+  font-size: 1rem;
+    display: inline-block;
+    width: 160px;
+    padding: 5px 0;
+    margin: 10px;
+}.logo3
+{
+  font-size: 1rem;
+  display: inline-block;
+  width: 160px;
+  padding: 5px 0;
+  margin: 10px;
+}.logo4
+{
+  font-size: 1rem;
+    display: inline-block;
+    width: 160px;
+    padding: 5px 0;
+    margin: 10px;
+}.logo5
+{
+  font-size: 1rem;
+    display: inline-block;
+    width: 160px;
+    padding: 5px 0;
+    margin: 10px;
+}.logo6
+{
+  font-size: 1rem;
+  display: inline-block;
+  width: 160px;
+  padding: 5px 0;
+  margin: 10px;
+}.logo7
+{
+  font-size: 1rem;
+  display: inline-block;
+  width: 160px;
+  padding: 5px 0;
+  margin: 10px;
+}.logo8
+{
+  font-size: 1rem;
+    display: inline-block;
+    width: 160px;
+    padding: 5px 0;
+    margin: 10px;
+}
+.etoiledansbleu
+{
+
+  padding-top:250px;
+
+
+}
+.titreboitebleu h1
+{
+  font-weight: 300;
+    letter-spacing: -.3px;
+    font-size: 2.125rem;
+    color: #00b39b;
+    margin-left: 70px;
+}
+.titreboitebleu p
+{
+  margin: 1.6em 0;
+  max-width: 415px;
+    font-size: .875em;
+    font-weight: 400;
+    line-height: 1.7142857143;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    color: grey;
+ margin-left: 70px;
+}
+.titreboitebleu
+{
+  display: flex;
+  height: 180px;
+  width: 401px;
+    flex-direction: column;
+    padding-top: 35px;
+    
+
+}
+.case1
+{
+  background-color: black;
+
+}
+.suite
+{
+  justify-content: center;
+  flex-direction: column;
+}
+.suite p
+{
+color: grey;
+}
+.suite h1
+{
+  color: #00b39b;
+}
